@@ -1,0 +1,9 @@
+.hero {
+  height: 75vh;
+  background: linear-gradient(to right, #007bff, #00c6ff);
+  display: flex;
+  align-items: center;
+}
+.card {
+  border-radius: 15px;
+}
