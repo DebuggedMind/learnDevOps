@@ -7,7 +7,7 @@ const app = express();
 const PORT = 3000;
 
 // 👇 Intentional error: this function is not defined anywhere
-crashTheServer();
+
 
 app.use(express.static(path.join(__dirname, "public")));
 
